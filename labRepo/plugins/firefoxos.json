@@ -18,10 +18,10 @@
         }
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
+        "cordova-plugin-device-orientation": {
             "PACKAGE_NAME": "com.app.labRepo"
         },
-        "cordova-plugin-device-orientation": {
+        "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.app.labRepo"
         }
     },
